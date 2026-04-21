@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-- 🎓 Studying at **The Faculty OF ELectronic Engineering**
+- 🎓 Studying at **The Faculty Of ELectronic Engineering**
 - 🔐 Passionate about **ethical hacking, penetration testing & bug hunting**
 - 🐞 Aspiring bug bounty hunter
 - 🎯 Goal: Build strong offensive security skills & help companies improve their systems security
@@ -51,7 +51,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-
+| <a href="https://github.com/0xS3id0x/0xS3id0x-Manual-Testing-Checklist/">**Manual-Testing-Hunting-Checklist**</a> | Interactive web app for bug bounty hunters & pentesters with a live demo at <a href="https://github.com/0xS3id0x/0xS3id0x-Manual-Testing-Checklist/">0xS3id0x.github.io</a> | HTML, CSS, JavaScript |
 
 ---
 
