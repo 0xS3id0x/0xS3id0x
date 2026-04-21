@@ -51,7 +51,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| <a href="https://github.com/0xS3id0x/0xS3id0x-Manual-Testing-Checklist/">**Manual-Testing-Checklist**</a> | Interactive web app for bug bounty hunters & pentesters with a live demo at <a href="https://github.com/0xS3id0x/0xS3id0x-Manual-Testing-Checklist/">0xS3id0x.github.io</a> | HTML, CSS, JavaScript |
+| <a href="https://github.com/0xS3id0x/0xS3id0x-Manual-Testing-Checklist/">**Manual-Testing-Checklist**</a> | Interactive web app for bug bounty hunters & pentesters with a live demo at <a href="https://github.com/0xS3id0x/0xS3id0x-Manual-Testing-Checklist/">0xS3id0x-Manual-Testing-Checklist</a> | HTML, CSS, JavaScript |
 
 ---
 
