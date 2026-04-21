@@ -8,7 +8,7 @@
 
 ## 👤 About Me
 
-- 🎓 Studying at **The Faculty Of ELectronic Engineering**
+- 🎓 Studying at **The Faculty of ELectronic Engineering**
 - 🔐 Passionate about **ethical hacking, penetration testing & bug hunting**
 - 🐞 Aspiring bug bounty hunter
 - 🎯 Goal: Build strong offensive security skills & help companies improve their systems security
